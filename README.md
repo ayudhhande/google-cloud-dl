@@ -41,5 +41,6 @@ Should have [Google Clould](https://cloud.google.com/) account
 
 * Finally run the script "gcp-setup.sh" and you are good to go.
 
-
+#### NOTE: If python not running on Anaconda,try :
+``` export PATH=~/anaconda2/bin:$PATH ```
 
